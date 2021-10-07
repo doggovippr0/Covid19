@@ -1,2 +1,2 @@
-# Web xem thông tin về Covid19 update Realtime
+# Web xem thông tin về Covid19 update Realtime: https://doggovippr0.github.io/Covid19/
 # Hiện đang thiếu data covid19 về các nước có tình hình chính trị bất ổn hoặc chưa công bố như Triều Tiên,...

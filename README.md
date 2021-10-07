@@ -1,1 +1,2 @@
-# Covid19
+# Web xem thông tin về Covid19 update Realtime
+# Hiện đang thiếu data covid19 về các nước có tình hình chính trị bất ổn hoặc chưa công bố như Triều Tiên,...
